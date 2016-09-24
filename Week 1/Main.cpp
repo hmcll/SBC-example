@@ -1,0 +1,1 @@
+#include <iostream>int main () {	std::cout << "Hello1";	std::cout << std::endl;	system ( "pause" );	system ( "cls" );	using std::endl;	std::cout << "Hello2" << endl;	system ( "pause" );	system ( "cls" );	using namespace std;	cout << "Hello3" << endl;	system ( "explorer C:\\" );	return 0;//useless note...}
